@@ -41,9 +41,5 @@ node ./report.js
 
 
 ## Bug Reporting [Bug Report](https://ahsan1234.atlassian.net/issues?jql=issueKey%20in%20(APIBUG-1%2CAPIBUG-2%2CAPIBUG-3%2CAPIBUG-4%2CAPIBUG-5%2CAPIBUG-6))
-## Automation Video [Automation Video](
-
-https://github.com/user-attachments/assets/bbf23eca-ff30-4b4f-9176-dff001224635
-
-)
+## Automation Video [Automation Video](https://github.com/user-attachments/assets/bbf23eca-ff30-4b4f-9176-dff001224635)
 
