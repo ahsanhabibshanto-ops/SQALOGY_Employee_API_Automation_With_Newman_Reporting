@@ -15,7 +15,7 @@ This is an employee API automation project. This project is facilitated to Creat
 ## How to run this project
 **Clone Project**
 ```bash
-https://github.com/ahsanhabibshanto-ops/EmployeeApiAutomationWithNewmanReporting.git
+https://github.com/ahsanhabibshanto-ops/SQALOGY_Employee_API_Automation_With_Newman_Reporting.git
 ```
 **Hit The Command**
 ``` bash
