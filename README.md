@@ -1,7 +1,7 @@
 ## SQALOGY API AUTOMATION PROJECT WITH NEWMAN REPORTING
 
 ## About this project
-This is an employee API automation project. This project is facilitated to Create employee, Get employee, Update employee list with different parameter. Here we have created automation and generated a Newman report.
+This project focuses on **Employee API Automation Testing**, covering key operations such as Create, Get, Delete, Search and Updating Employee records using different parameters. Automated test cases were developed to validate API functionality and data accuracy, and **Newman** was used to execute the Postman collection and generate comprehensive test reports.
 
 ## Pre-requisite
 - Node js
@@ -41,5 +41,9 @@ node ./report.js
 
 
 ## Bug Reporting [Bug Report](https://ahsan1234.atlassian.net/issues?jql=issueKey%20in%20(APIBUG-1%2CAPIBUG-2%2CAPIBUG-3%2CAPIBUG-4%2CAPIBUG-5%2CAPIBUG-6))
-## Automation Video [Automation Video]()
+## Automation Video [Automation Video](
+
+https://github.com/user-attachments/assets/bbf23eca-ff30-4b4f-9176-dff001224635
+
+)
 
